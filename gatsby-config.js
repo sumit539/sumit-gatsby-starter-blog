@@ -6,7 +6,7 @@ module.exports = {
       summary: ` I work for Cisco by the day, and learn new things from internet by the night.`,
     },
     description: `A starter blog demonstrating what Sumit is learning.`,
-    siteUrl: `https://sumit.com/`,
+    siteUrl: `https://sumitblog.netlify.com/`,
     social: {
       linkedin: `sumit539`,
     },
