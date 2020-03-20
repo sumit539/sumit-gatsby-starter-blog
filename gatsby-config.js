@@ -8,7 +8,7 @@ module.exports = {
     description: `A starter blog demonstrating what Sumit is learning.`,
     siteUrl: `https://sumitblog.netlify.com/`,
     social: {
-      linkedin: `sumit539`,
+      twitter: `nothaveaaccount`,
     },
   },
   plugins: [
