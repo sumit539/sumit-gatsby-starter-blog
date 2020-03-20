@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "my-learning-curve",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "I will post my journey in coding from 2020",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Sumit Kumar <sumitsngh539@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/sumit539/sumit-gatsby-starter-blog/issues"
   },
   "dependencies": {
     "gatsby": "^2.19.45",
@@ -38,10 +38,8 @@
   "devDependencies": {
     "prettier": "^1.19.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
-  "keywords": [
-    "gatsby"
-  ],
+  "homepage": "https://github.com/sumit539/sumit-gatsby-starter-blog#readme",
+  "keywords": ["gatsby"],
   "license": "MIT",
   "main": "n/a",
   "repository": {
