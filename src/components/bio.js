@@ -59,7 +59,7 @@ const Bio = () => {
       <p>
         Written by <strong>{author.name}</strong> {author.summary}
         {` `}
-        <a href={`https://linkedin.com/${social.linkedin}`}>
+        <a href={`https://linkedin.com/in/${social.linkedin}`}>
           You should connect with him on Linkedin
         </a>
       </p>
