@@ -3,7 +3,7 @@ module.exports = {
     title: `Learning curve of an amateur developer`,
     author: {
       name: `Sumit Kumar`,
-      summary: `who lives and works in Bangalore.`,
+      summary: `I am Sumit. I work for Cisco by the day, and learn new things from internet by night.`,
     },
     description: `A starter blog demonstrating what Sumit is learning.`,
     siteUrl: `https://sumitblog.netlify.com/`,
