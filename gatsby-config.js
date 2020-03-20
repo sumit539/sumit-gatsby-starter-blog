@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Learning curve of an amateur developer`,
     author: {
-      name: `Sumit Kumar`,
-      summary: `I am Sumit. I work for Cisco by the day, and learn new things from internet by night.`,
+      name: `Sumit`,
+      summary: ` I work for Cisco by the day, and learn new things from internet by the night.`,
     },
     description: `A starter blog demonstrating what Sumit is learning.`,
     siteUrl: `https://sumitblog.netlify.com/`,

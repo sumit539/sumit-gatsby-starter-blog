@@ -57,7 +57,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author.name}</strong> {author.summary}
+        Hi, I am <strong>{author.name}</strong>. {author.summary}
         {` `}
         <a href={`https://linkedin.com/in/${social.linkedin}`}>
           Feel free to reachout on Linkedin
